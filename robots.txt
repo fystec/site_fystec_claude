@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fystec.com.br/sitemap.xml
